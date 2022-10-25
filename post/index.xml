@@ -5,12 +5,23 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Indigenous Knowledge</title>
+      <link>https://example.com/post/ik/</link>
+      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/ik/</guid>
+      <description>&lt;p&gt;The phrases &lt;code&gt;indigenous&lt;/code&gt;, &lt;code&gt;traditional&lt;/code&gt;, &lt;code&gt;folk knowledge&lt;/code&gt;, &lt;code&gt;farmer&#39;s wisdom&lt;/code&gt;,  and/or &lt;code&gt;local knowledge&lt;/code&gt; relate to information and know-how that have been gathered through many generations and have shaped human cultures&amp;rsquo; countless interactions with their environment. Even though these names have various implications, their definitions are sufficiently consistent for us to use them interchangeably.
+These knowledge systems ensure the survival of the human race by preserving the environment, guaranteeing food security, and providing early warning systems for catastrophic risk management. Indigenous knowledge is valued by the impoverished as social capital and is crucial for ensuring survival and food production. The invasion of development notions, which promise sustainable development goals or solutions, is causing the progressive extinction of local knowledge. For the native populations in the area, it is tragic that this knowledge is vanishing, and when local knowledge, skills, and teachings are lost, the repercussions can be harmful to others.
+A richness of indigenous knowledge that is passed down through the generations, internalized by the communities through a process of socialization, and is a part of their way of life has been documented through anthropological investigation of numerous traditional societies in Asia and the Pacific.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Biochar</title>
@@ -37,7 +48,7 @@ Advantages of biochar:&lt;/p&gt;
       <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/permaculture/</guid>
       <description>&lt;p&gt;According to the Intergovernmental Panel on Climate Change&amp;rsquo;s 2019 report, a third of all greenhouse gas emissions are attributed to the world&amp;rsquo;s food production systems, which include agriculture, forestry, livestock, and other land uses. These systems produce 13% carbon dioxide, 44% methane, and 82% nitrous oxide emissions. We cannot expect agriculture to stay resilient, and as a result, the farming system urgently needs to reform. At this point, a different farming method known as &amp;ldquo;Permaculture&amp;rdquo; was developed in the 1970s by Australian biologist Bill Mollison and his student David Holmgren.&lt;/p&gt;
-&lt;p&gt;The goal of permaculture is to create long-lasting productive systems and sustainable communities that reduce the use of non-renewable energy and regulate ecological cycles.&lt;code&gt;Earth care&lt;/code&gt;, &lt;code&gt;people care&lt;/code&gt;, and a &lt;code&gt;fair share&lt;/code&gt; are the three pillars of permaculture. It requires a methodical strategy based on the local environment to ensure that any systemic changes have no negative effects on the planet or its inhabitants.&lt;/p&gt;
+&lt;p&gt;The goal of permaculture is to create long-lasting productive systems and sustainable communities that reduce the use of non-renewable energy and regulate ecological cycles. &lt;code&gt;Earth care&lt;/code&gt;, &lt;code&gt;people care&lt;/code&gt;, and a &lt;code&gt;fair share&lt;/code&gt; are the three pillars of permaculture. It requires a methodical strategy based on the local environment to ensure that any systemic changes have no negative effects on the planet or its inhabitants.&lt;/p&gt;
 &lt;p&gt;To adopt permaculture, we have to understand the type of the landscape, the way the water flows, the animals and trees there, and the state of the land are all made clear to us by this. It includes planning for infrastructure, a master plan, and where housing communities are located and how vegetation is grown. Methods used for this include topographical research, sound mapping, bird and tree counts, hydrological surveys, etc.&lt;/p&gt;
 &lt;p&gt;The practice of permaculture has its own special obstacles, just like any other agricultural method. Large landscapes, for example, may have different outcomes in various locations depending on how well the ecosystem is maintained there. Additionally, there is a need to motivate farmers to abandon chemical use in favor of soil conservation and restoration. Therefore, the largest issue is to comprehend and enhance the environment before deciding on food production.&lt;/p&gt;
 </description>
