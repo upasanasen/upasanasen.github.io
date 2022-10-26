@@ -5,23 +5,12 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Upasana&#39;s</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 25 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Upasana&#39;s</title>
       <link>https://example.com/</link>
     </image>
-    
-    <item>
-      <title>Indigenous Knowledge</title>
-      <link>https://example.com/post/ik/</link>
-      <pubDate>Tue, 25 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/ik/</guid>
-      <description>&lt;p&gt;The phrases &lt;code&gt;indigenous&lt;/code&gt;, &lt;code&gt;traditional&lt;/code&gt;, &lt;code&gt;folk knowledge&lt;/code&gt;, &lt;code&gt;farmer&#39;s wisdom&lt;/code&gt;,  and/or &lt;code&gt;local knowledge&lt;/code&gt; relate to information and know-how that have been gathered through many generations and have shaped human cultures&amp;rsquo; countless interactions with their environment. Even though these names have various implications, their definitions are sufficiently consistent for us to use them interchangeably.
-These knowledge systems ensure the survival of the human race by preserving the environment, guaranteeing food security, and providing early warning systems for catastrophic risk management. Indigenous knowledge is valued by the impoverished as social capital and is crucial for ensuring survival and food production. The invasion of development notions, which promise sustainable development goals or solutions, is causing the progressive extinction of local knowledge. For the native populations in the area, it is tragic that this knowledge is vanishing, and when local knowledge, skills, and teachings are lost, the repercussions can be harmful to others.
-A richness of indigenous knowledge that is passed down through the generations, internalized by the communities through a process of socialization, and is a part of their way of life has been documented through anthropological investigation of numerous traditional societies in Asia and the Pacific.&lt;/p&gt;
-</description>
-    </item>
     
     <item>
       <title>Biochar</title>
@@ -115,6 +104,25 @@ Although this invention has a lot of potential, there are some issues with it. E
     </item>
     
     <item>
+      <title>Sustainability Reporting</title>
+      <link>https://example.com/post/sustainability-reporting/</link>
+      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/sustainability-reporting/</guid>
+      <description>&lt;p&gt;Sustainability reporting, in the business world, refers to the disclosure of non-financial performance data to external parties of the organization, whether voluntarily, upon request, or as a requirement. The capacity to reduce risk throughout an organization&amp;rsquo;s supply chain is made possible by sustainability reporting&amp;rsquo;s contribution to more effective decision-making processes.&lt;/p&gt;
+&lt;p&gt;The benifiets of sustainability reporting are:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The justification of business behaviour and the promotion of goods and services with positive social and environmental effects.Increase in corporate reputation and brand value&lt;/li&gt;
+&lt;li&gt;Developing a competitive edge&lt;/li&gt;
+&lt;li&gt;Demonstrating greater competitiveness by using sustainability reporting activities as a stand-in for overall performance&lt;/li&gt;
+&lt;li&gt;Comparison and benchmarking against competitors&lt;/li&gt;
+&lt;li&gt;Increasing honesty and responsibility within the organization&lt;/li&gt;
+&lt;li&gt;Creating and sustaining staff motivation, as well as internal information and control procedures&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Reporting is done for a variety of purposes. First and foremost, reporting on sustainability helps make it easier to monitor progress toward predetermined goals. The implementation of the environmental strategy is then made easier as a result of the previous action. It raises awareness of general environmental challenges within the organisation. Sustainability reporting has the power to effectively communicate the corporate message both internally and internationally. Additionally, it increased overall credibility due to more transparency. It has the capability of communicating norms and efforts. It enables campaigning and operating. Finally, it provides benefits for reputation, cost savings identification, higher effectiveness, improved company development opportunities, and improved staff morale.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The cure to the deadly disease - Stroke</title>
       <link>https://example.com/post/stoke/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
@@ -148,6 +156,17 @@ A Spanish research team discovered a connection between stroke propensity and a 
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/admin/config.yml</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Indigenous Knowledge</title>
+      <link>https://example.com/post/ik/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/ik/</guid>
+      <description>&lt;p&gt;The phrases &lt;code&gt;indigenous&lt;/code&gt;, &lt;code&gt;traditional&lt;/code&gt;, &lt;code&gt;folk knowledge&lt;/code&gt;, &lt;code&gt;farmer&#39;s wisdom&lt;/code&gt;,  and/or &lt;code&gt;local knowledge&lt;/code&gt; relate to information and know-how that have been gathered through many generations and have shaped human cultures&amp;rsquo; countless interactions with their environment. Even though these names have various implications, their definitions are sufficiently consistent for us to use them interchangeably.
+These knowledge systems ensure the survival of the human race by preserving the environment, guaranteeing food security, and providing early warning systems for catastrophic risk management. Indigenous knowledge is valued by the impoverished as social capital and is crucial for ensuring survival and food production. The invasion of development notions, which promise sustainable development goals or solutions, is causing the progressive extinction of local knowledge. For the native populations in the area, it is tragic that this knowledge is vanishing, and when local knowledge, skills, and teachings are lost, the repercussions can be harmful to others.
+A richness of indigenous knowledge that is passed down through the generations, internalized by the communities through a process of socialization, and is a part of their way of life has been documented through anthropological investigation of numerous traditional societies in Asia and the Pacific.&lt;/p&gt;
+</description>
     </item>
     
   </channel>
