@@ -5,12 +5,21 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Upasana&#39;s</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 23 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Upasana&#39;s</title>
       <link>https://example.com/</link>
     </image>
+    
+    <item>
+      <title>Renewable Energy</title>
+      <link>https://example.com/post/renewable-energy/</link>
+      <pubDate>Mon, 31 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/renewable-energy/</guid>
+      <description>&lt;p&gt;Energy that comes from natural processes or sources that are constantly renewed is described as renewable energy. These resources are essentially limitless, even though they are only available for a short period of time each year. Sunlight, wind, geothermal energy, rain, tidal waves, etc. are a few examples. Renewable energy has long been used, for example, the sun and wind have both been used to generate heat. However, with the development of new scientific advancement, renewable energy is now defined as any natural process or source that can produce clean useable energy.A renewable energy source might be as little as a rooftop solar panel or as vast as an array of wind turbines at the seashore.The economy, ecology, national security, and human health can all benefit from renewable energy. Major oil and gas companies, private equity players, and institutional investors who prioritize renewable energy as a key component of their investment strategies are some of today ’s busy followers. These companies want to change their business models in order to benefit from the increased demand for renewables and the electrification of vehicles.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Biochar</title>
