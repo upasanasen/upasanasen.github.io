@@ -5,12 +5,29 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Eco-anxiety</title>
+      <link>https://example.com/post/eco-stress/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/eco-stress/</guid>
+      <description>&lt;p&gt;Fear of ecological calamity or environmental harm is known as eco-anxiety. The environment and climate change&amp;rsquo;s present and projected future states are the basis for this fear. Instead of ignoring your emotions, try to accept them as fully valid and vital.&lt;/p&gt;
+&lt;p&gt;Some steps to reduce eco-anxiety:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Firstly, acknowledge your concerns about climate change&lt;/li&gt;
+&lt;li&gt;Expand your knowledge related to climate crisis mitigation strategies by reading books, articles, newspapers, social media, and blogs.&lt;/li&gt;
+&lt;li&gt;Interact with people and share your experience with folks who understand your concerns.&lt;/li&gt;
+&lt;li&gt;Take action such as eating less meat, reducing water wastage, reducing food wastage, being mindful while using natural resources, and conserving energy.&lt;/li&gt;
+&lt;li&gt;Finally, creating awareness in the community.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Renewable Energy</title>
