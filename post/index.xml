@@ -5,12 +5,29 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Mon, 31 Oct 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><lastBuildDate>Fri, 04 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Eco-anxiety</title>
+      <link>https://example.com/post/ecostress/</link>
+      <pubDate>Fri, 04 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/ecostress/</guid>
+      <description>&lt;p&gt;Fear of ecological calamity or environmental harm is known as eco-anxiety. The environment and climate change&amp;rsquo;s present and projected future states are the basis for this fear. Instead of ignoring your emotions, try to accept them as fully valid and vital.&lt;/p&gt;
+&lt;p&gt;Some steps to reduce eco-anxiety:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Firstly, acknowledge your concerns about climate change&lt;/li&gt;
+&lt;li&gt;Expand your knowledge related to climate crisis mitigation strategies by reading books, articles, newspapers, social media, and blogs.&lt;/li&gt;
+&lt;li&gt;Interact with people and share your experience with folks who understand your concerns.&lt;/li&gt;
+&lt;li&gt;Take action such as eating less meat, reducing water wastage, reducing food wastage, being mindful while using natural resources, and conserving energy.&lt;/li&gt;
+&lt;li&gt;Finally, creating awareness in the community.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
     
     <item>
       <title>Renewable Energy</title>
@@ -80,23 +97,6 @@ The most successful plant grown in hydroponic techniques is leafy greens, herbs,
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/post/geographical-indication/</guid>
       <description>&lt;p&gt;A geographical indicator (GI) is a label placed on goods that come from a certain area and have characteristics or a reputation that are specific to that area of origin. A sign must specify that a product is from a specific location in order for it to serve as a GI. Furthermore, the origin of the product should be largely responsible for its attributes, traits, or reputation. There is an obvious connection between the product and its original site of production because the attributes are dependent on the geographic location of production. A geographical indicator right permits the owner of the right to use the indication to stop a third party from using it to market a product that doesn&amp;rsquo;t meet the relevant criteria. A protected geographical indication&amp;rsquo;s possessor is not able to stop others from producing goods using the same methods as those specified in the indication&amp;rsquo;s standards, nevertheless. Agriculture, handicrafts, food, wine &amp;amp; spirits, and industrial products are among the common categories for which geographic indications are utilised. In general, geographical indications are protected in various national and regional systems utilising a wide range of strategies, frequently combining two or more of the strategies (1. sui generis systems (i.e. special regimes of protection); 2. using collective or certification marks; and 3. methods focusing on business practices, including administrative product approval schemes). These strategies were created while taking into account various legal traditions as well as the unique historical and economic circumstances of each individual.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Jute leaf - Egyptian Queen&#39;s beauty secret</title>
-      <link>https://example.com/post/ecostress/</link>
-      <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/ecostress/</guid>
-      <description>&lt;p&gt;One of Bengal&amp;rsquo;s primary crops is jute. In rural areas, jute leaf is also known as nailya leaf. But that jute leaf was mainly obtained from Tosha or Baghi jute. In addition to being low in calories, jute leaves also contain many vital vitamins and minerals, such as iron, riboflavin, folate, and vitamins A and C. It is reported that Cleopatra the Egyptian queen consumed jute leaves to maintain the health of her skin.&lt;/p&gt;
-&lt;p&gt;Let&amp;rsquo;s discuss some of the benefits of consuming jute leaf:
-Cure Constipation: Jute leaves are rich in fiber. Moreover, fiber is very effective in maintaining good bowel movements.&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;code&gt;Reduce inflammation&lt;/code&gt;: Omega-3 fatty acids are found in jute leaves, which reduce inflammation. These fatty acids aid in reducing body inflammation. Additionally, the antioxidant &amp;ldquo;Lycopene&amp;rdquo; found in jute leaves aids in regenerating cells harmed by oxidation.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Boost immunity&lt;/code&gt;: Vitamin C-rich jute leaves might strengthen the immune system. Additionally, vitamin C functions as a potent antioxidant that lessens the negative effects of stress, pollution, and cell oxidation.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Eye and skin care&lt;/code&gt;: Vitamin A in jute leaves is good for the eyes and skin. Additionally, vitamin A is crucial for maintaining the youthfulness of the skin&amp;rsquo;s &amp;ldquo;epithelial&amp;rdquo; cells.&lt;/li&gt;
-&lt;li&gt;&lt;code&gt;Cure for Restless Leg Syndrome&lt;/code&gt;: A person suffering from this disease keeps moving their legs constantly. One of the causes of this illness is a deficiency in iron in the body. Jute leaf consumption is frequently suggested as a natural treatment for this illness. As jute leaf is one of the rich sources of iron.&lt;/li&gt;
-&lt;/ul&gt;
 </description>
     </item>
     
