@@ -5,12 +5,24 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 Jan 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>International Sustainability Reporting Framework</title>
+      <link>https://example.com/post/international-sustainable-reporting-/</link>
+      <pubDate>Sat, 28 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/international-sustainable-reporting-/</guid>
+      <description>&lt;p&gt;Sustainability reporting is a technique for increasing transparency and responsibility in areas that regular financial reporting does not address. These include long-term perspectives and links between environmental, social, and economic challenges.&lt;/p&gt;
+&lt;p&gt;The discussion of organizational-level yearly reporting has also been expanded to include sustainability issues. In large parts of the world, publishing an annual report on financial performance is mandated by law for private and public institutions. It is given systematically and includes all pertinent financial data. To give the client of the accounts reasonable confidence regarding its completeness and correctness, and, in the public sector, to certify to the proper financial responsibility of the audited institution, a financial report or financial statement is often audited by an external auditor.&lt;/p&gt;
+&lt;p&gt;Even though financial data may not provide a comprehensive picture of a business and the environment in which it works, corporate decision-making sometimes relies significantly on it. An organization&amp;rsquo;s success is influenced by various factors, like its ability to minimize greenhouse emissions or the effective use of its resources, in addition to its financial performance. Environmental and sustainability concerns are not simply morally troubling; they also have a growing economic relevance. Another illustration of how a company might behave is to preserve customer and staff happiness. These instances illustrate how corporate governance in the commercial sector and sound governance in the public sector are becoming increasingly important. Traditional financial reporting cannot be used to report these problems alone. Some organizations have begun to publish their performance on environmental concerns, social responsibility, or sustainable development in addition to financial issues to give a broader view of their performance.&lt;/p&gt;
+&lt;p&gt;In the coming Blogs, I will discuss five international sustainability reporting frameworks that is CDP, GRI, SASB, IIRC, TCFD&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Ecotourism</title>
