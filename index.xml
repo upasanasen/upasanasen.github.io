@@ -5,12 +5,33 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Upasana&#39;s</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Feb 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Upasana&#39;s</title>
       <link>https://example.com/</link>
     </image>
+    
+    <item>
+      <title>GRI</title>
+      <link>https://example.com/post/gri/</link>
+      <pubDate>Wed, 01 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/gri/</guid>
+      <description>&lt;p&gt;GRI is an independent, international organization that helps businesses and other organizations take responsibility for their impacts by providing them with a global common language to communicate those impacts through GRI standards. The GRI secretariat is headquartered in Amsterdam, the Netherlands.&lt;/p&gt;
+&lt;p&gt;GRI works with businesses, investors, policymakers, civil society, labor organizations, and other esports to develop the GRI standards and promote their use by organizations worldwide.&lt;/p&gt;
+&lt;p&gt;The GRI standards enable any organization- large or small, private or public- to understand and report on their impact on the economy, environment, and people in a comparable and credible way, thereby increasing transparency on their contribution to sustainable development.
+Now let&amp;rsquo;s understand the structure of GRI standards.&lt;/p&gt;
+&lt;p&gt;GRI standards are a set of multiple interlinked standards. Companies can either use the GRI standards to prepare a sustainability report following the standards, or they can use specific standards to report information to particular users or purposes.&lt;/p&gt;
+&lt;p&gt;Universal standards
+GRI 1 Requirements and principles for using the GRI standards
+GRI 2 Disclosures about the reporting organization
+GRI 3 Disclosures and guidance about the organization’s material topics&lt;/p&gt;
+&lt;p&gt;Sector standards
+GRI 11 TILL GRI 18 Provide information for organizations about their likely material topics. The organization uses sector standards that apply to its sectors.&lt;/p&gt;
+&lt;p&gt;Topic standards
+GRI 201, GRI 403, GRI 305, GRI 415, GRI 303, GRI 202, GRI 304, and GRI 205 contain disclosures for the organizations to report information about its impacts concerning particular topics. The topic standards cover a wide range of issues. The organization uses the topic standards according to the list of material topics it has determined using GRI 3.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>CDP</title>
