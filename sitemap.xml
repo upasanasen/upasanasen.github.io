@@ -82,6 +82,10 @@
     <lastmod>2022-10-31T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/jute_benefits/</loc>
+    <lastmod>2022-10-24T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/benifits/</loc>
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -94,15 +98,27 @@
     <lastmod>2022-10-23T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/post/sustainability-reporting/</loc>
+    <lastmod>2022-10-23T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/post/hydroponics/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/geographical-indication/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
+    <loc>https://example.com/post/stoke/</loc>
+    <lastmod>2022-10-22T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/jute_benefits/</loc>
+    <loc>https://example.com/post/ik/</loc>
+    <lastmod>2022-10-21T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/tea/</loc>
+    <lastmod>2022-10-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/geographical-indication/</loc>
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -114,19 +130,7 @@
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/sustainability-reporting/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/stoke/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>https://example.com/post/basics-of-sustainability/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/tea/</loc>
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -134,9 +138,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/categories/</loc>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/ik/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/publication_types/</loc>
