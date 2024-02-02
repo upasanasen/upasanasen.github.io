@@ -5,12 +5,25 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 21 Feb 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 15 Aug 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
       <link>https://example.com/post/</link>
     </image>
+    
+    <item>
+      <title>Climate Quirk - Why We&#39;re Battling More for AC than Heat</title>
+      <link>https://example.com/post/cooling/</link>
+      <pubDate>Tue, 15 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/cooling/</guid>
+      <description>&lt;p&gt;Hey there, can you believe it? The world is flipping the script on us! We used to be all about cranking up the heat, especially in those chilly places. But get this – things are changing. Thanks to climate change, our bustling urban lifestyles, and the rising temperatures that come with it, we&amp;rsquo;re now shifting from needing warmth to craving coolness. Let&amp;rsquo;s take a closer look at why this switch is happening, the hurdles it&amp;rsquo;s throwing our way, and how we can tackle this rising demand for cooling without breaking a sweat.&lt;/p&gt;
+&lt;p&gt;So, what&amp;rsquo;s causing this cool twist? Well, the old rules no longer apply because the climate is going haywire. As temperatures soar, especially in our bustling cities, staying comfortable is becoming a real challenge. And let&amp;rsquo;s not forget about the urban heat islands – cities are turning into heat magnets due to all the concrete and dwindling green spaces. Oh, and did I mention how everyone&amp;rsquo;s rushing to get air conditioners and fridges? Yeah, that&amp;rsquo;s why our need for cooling is soaring higher than ever.&lt;/p&gt;
+&lt;p&gt;But wait, there are some challenges in this cool revolution. First off, cooling things down uses a ton of energy, and most of our cooling methods rely on fossil fuels that contribute to climate change. It&amp;rsquo;s like trying to put out a fire with gasoline – not the best idea, right? And those coolants we use in many cooling systems? They&amp;rsquo;re not exactly eco-friendly. Imagine if your beloved fridge was secretly harming the environment – not so cool. Plus, cooling systems are thirsty – they guzzle water like there&amp;rsquo;s no tomorrow, which is a big problem in places already dealing with water scarcity. And guess what? Our power grids and infrastructure might not be ready for the sudden spike in cooling demands, potentially leading to blackouts and inefficiencies.&lt;/p&gt;
+&lt;p&gt;But hey, don&amp;rsquo;t sweat it! There are ways to keep our cool while being environmentally responsible. We need to make cooling systems smarter and more efficient – think high-tech controls and better insulation. And why not tap into renewable energy sources like solar and wind to power our cooling needs? We can also get creative with solutions like reflective roofs, natural ventilation, and planting more greenery in our cities. But it&amp;rsquo;s not just on us – governments and international organizations need to step in with rules and standards for energy-efficient cooling tech and greener coolants.&lt;/p&gt;
+&lt;p&gt;To sum it all up, while the world is heating up, we&amp;rsquo;re finding ourselves needing more ways to chill out. It&amp;rsquo;s a new challenge that calls for a fresh approach. By embracing greener technologies, welcoming renewable energy, and reimagining how we design our urban spaces, we can keep our cool without heating up the planet. As temperatures rise, our innovative solutions and collective efforts will be the key to a cooler, brighter future. Stay cool out there!&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Sweden&#39;s Ambitious Goal - Carbon-Neutral by 2045</title>
@@ -395,9 +408,9 @@ Although this invention has a lot of potential, there are some issues with it. E
     
     <item>
       <title>Understanding the basics of sustainability - A beginner&#39;s guide to the three pillars of sustainability and how they work together.</title>
-      <link>https://example.com/post/basics-of-sustainability/</link>
+      <link>https://example.com/post/basics-of-sustainability-copy/</link>
       <pubDate>Wed, 19 Oct 2022 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/basics-of-sustainability/</guid>
+      <guid>https://example.com/post/basics-of-sustainability-copy/</guid>
       <description>&lt;p&gt;Sustainability is a concept that is becoming increasingly important in today&amp;rsquo;s world. It refers to the ability of humans to meet their present needs without compromising the ability of future generations to meet their own needs. Sustainability is often broken down into three pillars: environmental, social, and economic. In this blog, we will explore these three pillars and how they work together to create a sustainable future.&lt;/p&gt;
 &lt;p&gt;The first pillar of sustainability is environmental sustainability. This refers to the ability of the natural environment to support life on Earth. Environmental sustainability involves preserving and protecting the planet&amp;rsquo;s natural resources, including land, air, water, and biodiversity. This can include reducing greenhouse gas emissions, conserving energy, protecting ecosystems, and reducing waste.&lt;/p&gt;
 &lt;p&gt;The second pillar of sustainability is social sustainability. This refers to the ability of society to meet the needs of its members, including access to education, healthcare, and basic human rights. Social sustainability involves promoting social justice, equity, and inclusion, and addressing social issues such as poverty, inequality, and discrimination.&lt;/p&gt;

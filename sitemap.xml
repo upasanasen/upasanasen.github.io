@@ -2,15 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.com/post/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <loc>https://example.com/home/experience/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/post/sweden-carbon-neutral-by-2045/</loc>
-    <lastmod>2023-02-21T00:00:00+00:00</lastmod>
+    <loc>https://example.com/home/accomplishments/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home/posts/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/home/projects/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/</loc>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/cooling/</loc>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/</loc>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/sustainability/</loc>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2023-08-15T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/sweden-carbon-neutral-by-2045/</loc>
     <lastmod>2023-02-21T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -47,10 +71,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/sustainability-reporting/</loc>
-    <lastmod>2023-02-01T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2023-02-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -126,11 +146,7 @@
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>https://example.com/tag/sustainability/</loc>
-    <lastmod>2022-10-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/post/basics-of-sustainability/</loc>
+    <loc>https://example.com/post/basics-of-sustainability-copy/</loc>
     <lastmod>2022-10-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -140,7 +156,13 @@
     <loc>https://example.com/categories/</loc>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/home/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/publication_types/</loc>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/publication/</loc>
     <changefreq>weekly</changefreq>
   </url>
 </urlset>

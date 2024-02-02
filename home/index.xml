@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes | Upasana&#39;s</title>
+    <link>https://example.com/home/</link>
+      <atom:link href="https://example.com/home/index.xml" rel="self" type="application/rss+xml" />
+    <description>Homes</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <image>
+      <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
+      <title>Homes</title>
+      <link>https://example.com/home/</link>
+    </image>
+    
+    <item>
+      <title>Experience</title>
+      <link>https://example.com/home/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/experience/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Accomplish&amp;shy;ments</title>
+      <link>https://example.com/home/accomplishments/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/accomplishments/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent Posts</title>
+      <link>https://example.com/home/posts/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://example.com/home/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/home/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
