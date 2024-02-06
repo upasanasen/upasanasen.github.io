@@ -5,7 +5,7 @@
     <link>https://example.com/post/</link>
       <atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
     <description>Posts</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 02 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Posts</title>
@@ -13,10 +13,10 @@
     </image>
     
     <item>
-      <title>CSRD</title>
-      <link>https://example.com/post/csrd/</link>
-      <pubDate>Fri, 02 Feb 2024 00:00:00 +0000</pubDate>
-      <guid>https://example.com/post/csrd/</guid>
+      <title>Jute Mulching for Sustainable Agriculture</title>
+      <link>https://example.com/post/mulching/</link>
+      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/mulching/</guid>
       <description>&lt;p&gt;Biochar is created through the so-called thermal breakdown of organic material at relatively low temperatures and with a constrained oxygen supply. Biochar, in a nutshell, is the carbon-rich byproduct of heating biomass, such as wood, manure, or leaves, in a closed container with little to no available air.
 One of the earliest industrial technologies created by humans is the manufacturing of charcoal, which is frequently reflected in this procedure. Because there are so many different types of biomass and charring circumstances, it is considerably more challenging to define biochar from a chemical standpoint than it is from a production standpoint. The word &amp;ldquo;char&amp;rdquo; is frequently used synonymously with &amp;ldquo;charcoal,&amp;rdquo; although it is also occasionally used to describe materials that have undergone less extensive charring than charcoal.
 Advantages of biochar:&lt;/p&gt;
