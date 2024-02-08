@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Upasana&#39;s</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 08 Feb 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Upasana&#39;s</title>
@@ -42,6 +42,23 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/home/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Sweden&#39;s Recipe for Sustainability</title>
+      <link>https://example.com/post/-european-unions-farm-to-fork-strategy/</link>
+      <pubDate>Thu, 08 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/-european-unions-farm-to-fork-strategy/</guid>
+      <description>&lt;p&gt;Transitioning from the vibrant landscapes of India to the green ethos of Sweden, my academic pursuit at Lund University has become a journey of environmental enlightenment. Here, I&amp;rsquo;ve been introduced to the European Union&amp;rsquo;s Farm to Fork Strategy, a cornerstone of the European Green Deal aimed at making food systems fair, healthy, and environmentally-friendly.&lt;/p&gt;
+&lt;p&gt;The Farm to Fork Strategy is the EU&amp;rsquo;s ambitious plan to ensure that the food we eat is produced, processed, and consumed in a way that benefits our health, the environment, and the economy. It seeks to reduce the food system&amp;rsquo;s environmental impact, ensure food security, and promote sustainable practices across the entire food value chain.&lt;/p&gt;
+&lt;p&gt;Embracing this strategy in Sweden, I&amp;rsquo;ve found a deep connection between my Indian heritage and Sweden&amp;rsquo;s commitment to sustainability—a concept that transcends boundaries and unites us in a common goal.&lt;/p&gt;
+&lt;p&gt;In Sweden, sustainability isn&amp;rsquo;t just policy; it&amp;rsquo;s a way of life. This resonates with me personally, offering a fresh perspective on how food systems can impact our planet. Adapting to Sweden&amp;rsquo;s sustainable food practices has been enlightening, blending my cultural roots with my newfound environmental consciousness.&lt;/p&gt;
+&lt;p&gt;This journey is more than an academic adventure; it&amp;rsquo;s a call to action. It inspires a global dialogue on sustainable living, urging us to rethink our relationship with food, regardless of our geographical origins. As I navigate this Swedish experience, I carry with me the rich lessons of sustainability, ready to share them from India to the world.&lt;/p&gt;
+&lt;p&gt;Reference:
+European Commission. (n.d.). The Farm to Fork Strategy. European Commission - Food Safety. Retrieved from :
+&lt;a href=&#34;https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy_en#:~:text=The%20Farm%20to%20Fork%20Strategy%20aims%20to%20accelerate%20our%20transition,reverse%20the%20loss%20of%20biodiversity&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://food.ec.europa.eu/horizontal-topics/farm-fork-strategy_en#:~:text=The%20Farm%20to%20Fork%20Strategy%20aims%20to%20accelerate%20our%20transition,reverse%20the%20loss%20of%20biodiversity&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Roos, P. (2020). The Farm to Fork Strategy. Swedish University of Agricultural Sciences. Retrieved from: &lt;a href=&#34;https://www.slu.se/globalassets/ew/org/centrb/fu-food/publikationer/future-food-reports/slu-futurefood_rapport16-6_jordtillbordstrategin_pia-roos_eng.pdf&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://www.slu.se/globalassets/ew/org/centrb/fu-food/publikationer/future-food-reports/slu-futurefood_rapport16-6_jordtillbordstrategin_pia-roos_eng.pdf&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
