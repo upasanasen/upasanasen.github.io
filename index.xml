@@ -5,7 +5,7 @@
     <link>https://example.com/</link>
       <atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
     <description>Upasana&#39;s</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 07 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 02 Apr 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_huf4306ec19d9104fdb71fbcf65b525eb5_18040_512x512_fill_lanczos_center_3.png</url>
       <title>Upasana&#39;s</title>
@@ -42,6 +42,17 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>https://example.com/home/projects/</guid>
       <description></description>
+    </item>
+    
+    <item>
+      <title>Discovering Hope in Mold - My Dive into Plastic Degradation Innovation</title>
+      <link>https://example.com/post/plastic/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://example.com/post/plastic/</guid>
+      <description>&lt;p&gt;In my recent exploration of new solutions to the plastic waste crisis, I discovered an inspiring breakthrough from Australian researchers. They’ve found a common backyard mold that can decompose stubborn plastics in merely 140 days. This discovery by the University of Sydney team, involving fungi like Aspergillus terreus and Engyodontium album, presents a significant advance in tackling the global challenge of plastic pollution.&lt;/p&gt;
+&lt;p&gt;Amidst alarming reports, including a 2022 Greenpeace analysis revealing the inefficiency of current recycling practices, this innovation shines as a beacon of hope. It not only demonstrates the potential for biological approaches to plastic degradation but also emphasizes the necessity for a holistic strategy encompassing behavior, social, and business model changes.&lt;/p&gt;
+&lt;p&gt;This revelation has deeply impacted my journey into understanding plastic waste management, underscoring the critical role of scientific ingenuity and collective action in fostering environmental sustainability. It’s a potent reminder of the continuous need for engagement and innovation in our pursuit of a cleaner, sustainable world.&lt;/p&gt;
+</description>
     </item>
     
     <item>
