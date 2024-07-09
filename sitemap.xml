@@ -26,6 +26,22 @@
     <lastmod>2024-07-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>https://example.com/tag/sustainability/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tags/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/tag/tesla/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>https://example.com/post/tesla/</loc>
+    <lastmod>2024-05-20T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>https://example.com/tag/banking-sustainability-performance/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -47,10 +63,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/sustainable-development/</loc>
-    <lastmod>2024-05-04T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tags/</loc>
     <lastmod>2024-05-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -79,10 +91,6 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>https://example.com/tag/soil-quality-assessment-techniques/</loc>
-    <lastmod>2024-04-19T00:00:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
-    <loc>https://example.com/tag/sustainability/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
