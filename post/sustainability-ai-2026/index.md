@@ -1,6 +1,6 @@
 ---
 title: "What Sustainability Actually Means in 2026"
-date: 2026-03-01
+date: 2024-07-10
 draft: false
 summary: "Sustainability has evolved from environmental awareness to intelligent system design."
 tags: ["Sustainability", "AI", "Climate", "Future"]
