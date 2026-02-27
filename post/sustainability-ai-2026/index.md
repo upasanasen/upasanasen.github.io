@@ -13,12 +13,10 @@ Companies are no longer asking whether they should reduce emissions. They are as
 
 Artificial Intelligence is now shaping sustainability in three powerful ways:
 
-• Predicting energy demand  
-• Optimizing supply chains  
-• Reducing waste before it exists  
+- Predicting energy demand  
+- Optimizing supply chains  
+- Reducing waste before it exists  
 
 This represents a shift from reactive sustainability to predictive sustainability.
 
 The sustainability leaders of this decade are not just environmentalists. They are systems thinkers who understand data, infrastructure, and human behavior together.
-
-The future belongs to those who can design systems that sustain both civilization and the planet.
